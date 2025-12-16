@@ -42,4 +42,3 @@ AI_Final_Project/
 ├── predict.py               # 預測與繪圖程式
 └── living_vs_nonliving.pth  # 模型權重檔
 
-

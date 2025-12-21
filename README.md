@@ -33,7 +33,7 @@
 
 ## 7. 專案檔案結構
 ```text
-AI_Final_Project/
+living or not/
 ├── dataset/                 # 訓練資料集
 ├── predict_results/         # 預測結果輸出
 ├── test_images/             # 測試圖片
@@ -41,4 +41,5 @@ AI_Final_Project/
 ├── download_random.py       # 下載測試圖程式
 ├── predict.py               # 預測與繪圖程式
 └── living_vs_nonliving.pth  # 模型權重檔
+
 

@@ -1,0 +1,27 @@
+# Python / PyTorch
+__pycache__/
+*.py[cod]
+*$py.class
+*.pth
+*.pt
+*.onnx
+.venv/
+env/
+venv/
+ENV/
+
+# Data & Output Logs
+dataset/raw/
+dataset/train/
+dataset/val/
+dataset/test/
+predict_results/
+reports/*.png
+reports/*.json
+*.log
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

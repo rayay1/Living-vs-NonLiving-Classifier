@@ -1,0 +1,2 @@
+# Living-vs-NonLiving Classifier Package
+__version__ = "2.0.0"
